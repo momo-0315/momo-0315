@@ -7,11 +7,16 @@
   
 </h2> 
 
-<p align="center">Connect with me:
+<p align="center">🤍 Connect with me
+<div align="center">☟
+</div>
+<br>
+<div align="center">
 <a href="https://instagram.com/omochi_1777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omochi_1777" height="30" width="40" /></a>
+</div>
 </p>
-
-<p align="center">🛠 Languages and Tools:</p>
+<br>
+<p align="center">🛠 Languages and Tools</p>
 <div align="center">☟
 </div>
 <br>
