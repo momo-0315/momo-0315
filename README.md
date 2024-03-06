@@ -27,7 +27,7 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=momo-0315&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momo-0315&show_icons=true&theme=radical)
+
 
  <div>
 
